@@ -1,6 +1,6 @@
-#PAGINATION AND FILTERING
+# PAGINATION AND FILTERING
 
-##STEPS
+## STEPS
 
 Steps to Run a basic NodeJs Project
 
@@ -12,7 +12,7 @@ Steps to Run a basic NodeJs Project
 
 
 
-##Hierarchy of folders
+## Hierarchy of folders
 
 app.js [import the  router,db func,create a start func serv == db]
 *Db -> connect.db [import the mongoose model]
